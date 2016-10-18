@@ -1,0 +1,7 @@
+#Thu Oct 13 16:54:58 CST 2016
+base.0=D\:\\studio\\MyApp\\listviewpic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d0957cba130844ffe79f2f386927735e59371c90
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\studio\\MyApp\\listviewpic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1dfa64a06e9bb87c1d1d9fea22c1fe1e0f6370b9\\classes.dex
+base.1=D\:\\studio\\MyApp\\listviewpic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1dfa64a06e9bb87c1d1d9fea22c1fe1e0f6370b9
+file.0=D\:\\studio\\MyApp\\listviewpic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d0957cba130844ffe79f2f386927735e59371c90\\classes.dex
